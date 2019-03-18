@@ -1,0 +1,3 @@
+el estudiante sebas
+con cedula233
+Se ha matriculado en el curso llamado Curso Node.JS tiene una duración de 32 y un valor de 0
